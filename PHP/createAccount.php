@@ -1,7 +1,8 @@
 <?php
     
     $auth_token = '59550a0e2b1a864a31bef962363e029f'; //your_auth_token
-    $org_id=652853630; //your_organization_id
+    //your_organization_id
+    $org_id=652853630; 
     
     $account_data=array(
         "accountName"=>"Some Account Name",
